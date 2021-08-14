@@ -1,0 +1,9 @@
+{
+    "name": "myapp",
+    "script": "app.js",
+    "instance": 2,
+    "log_date_format" : "YYYY-MM-DD HH:mm Z",
+    "env": {
+        "TZ": "Asia/Bangkok"
+    }
+}
